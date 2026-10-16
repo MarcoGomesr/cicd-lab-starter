@@ -12,8 +12,8 @@ permissions:
   contents: read
 
 jobs:
-  verify:
-    name: Verify
+  verify_expected:
+    name: verify Expected
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
