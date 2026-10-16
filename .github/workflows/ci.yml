@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   verify:
-    name: Verify
+    name: verify
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
