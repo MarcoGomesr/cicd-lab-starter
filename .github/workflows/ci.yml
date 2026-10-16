@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   verify_expected:
-    name: verify Expected
+    name: verifyExpected
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
